@@ -1,2 +1,3 @@
 # analisar-pagarme
-Pegando informações via api do pagar.me e analisando pelo pandas.
+
+Utilizar o notebook 'api_pagarme_python.ipynb' para puxar as transações do pagarme, e 'not_DATAFRAME.ipynb' para analise no pandas.
